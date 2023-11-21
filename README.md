@@ -1,3 +1,7 @@
+This fork does not contain any modified code and is only used to host Windows-compatible builds of flash-attention and workflows.  
+Please see releases for downloads.
+
+----
 # FlashAttention
 This repository provides the official implementation of FlashAttention and
 FlashAttention-2 from the
